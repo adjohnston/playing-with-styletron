@@ -1,7 +1,7 @@
 # playing-with-styletron
 
 ## Install
-- `npm run install`
+- `npm install`
 
 ## Serve
 - `npm run serve`
